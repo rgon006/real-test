@@ -20,7 +20,7 @@ let bird = {
 };
 let pipes = [];
 let pipeWidth = 50;
-let pipeGap = 120;
+let pipeGap = 180;
 let pipeFrequency = 1500; // milliseconds
 let lastPipeTime = 0;
 let gameSpeed = 2;
